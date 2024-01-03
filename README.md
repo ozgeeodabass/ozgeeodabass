@@ -32,8 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeeodabass&" alt="ozgeeodabass" /></p>
 
 # Blog posts
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
-</table>

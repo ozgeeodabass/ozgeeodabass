@@ -17,3 +17,6 @@ jobs:
         uses: ozgeeodabass/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/@ozgeeodabassg"
+          readme-section: feed
+          max: 5
+          template: "* [{{ title }}]({{ link }})"

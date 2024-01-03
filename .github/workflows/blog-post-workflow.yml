@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ozgeeodabass/workflows/blog-post-workflow@master
+      - uses: ozgeeodabass/blog-post-workflow@master
         with:
           feed_list: 'https://medium.com/@ozgeeodabassg'

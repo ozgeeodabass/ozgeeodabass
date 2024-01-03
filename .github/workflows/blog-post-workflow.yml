@@ -14,3 +14,5 @@ jobs:
         with:
           # you can change this to your own RSS feed
           feed_list: "https://medium.com/@ozgeeodabassg"
+          max_post_count: 3
+          readme_path: "https://github.com/ozgeeodabass/ozgeeodabass/blob/main/README.md"

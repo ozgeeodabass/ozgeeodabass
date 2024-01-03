@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in medium.com posts
-        uses: ozgeeodabass/blog-post-workflow@v1
+        uses: ozgeeodabass/ozgeeodabass/blog-post-workflow@v1
         with:
           feed_list: "https://ozgeeodabassg.medium.com/"
           readme_path: "./README.md"

@@ -1,4 +1,10 @@
- <h1 align="center">Hi 👋, I'm Özge Odabaş</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ozgeeodabass.ozgeeodabass"/>
+ 
+ <h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg-herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000%lines=Hi+There!+👋;+I'm+Özge+Odabaş!;"/>
+  </a>
+ </h1>
 
 <h3 align="center">A passionate backend developer from Turkey</h3>
 

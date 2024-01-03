@@ -16,4 +16,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: ozgeeodabass/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/ozgeeodabass/"
+          feed_list: "https://medium.com/ozgeeodabass/stories/public"

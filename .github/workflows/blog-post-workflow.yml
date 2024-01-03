@@ -19,4 +19,5 @@ jobs:
           feed_list: "https://medium.com/ozgeeodabass/stories/public"
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
           

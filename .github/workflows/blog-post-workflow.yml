@@ -16,7 +16,7 @@ jobs:
       - name: Pull in medium.com posts
         uses: ozgeeodabass/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/ozgeeodabass/stories/public"
+          feed_list: "https://ozgeeodabassg.medium.com/"
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
           template: "<tr><td>$title</td><td>$url</td></tr>"

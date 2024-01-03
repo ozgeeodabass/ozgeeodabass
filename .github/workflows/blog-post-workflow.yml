@@ -16,4 +16,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/me/stories/public"
+          feed_list: "https://medium.com/ozgeeodabass/stories/public"

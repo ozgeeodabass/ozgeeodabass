@@ -14,4 +14,4 @@ jobs:
         with:
           # you can change this to your own RSS feed
           feed_list: "https://medium.com/@ozgeeodabassg"
-          max_post_count: 3
+          max_post_count: "3"

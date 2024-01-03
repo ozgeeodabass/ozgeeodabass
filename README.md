@@ -1,5 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @keyframes moveTitle {
+            0% { transform: translateX(0); }
+            25% { transform: translateX(5px); }
+            50% { transform: translateX(0); }
+            75% { transform: translateX(-5px); }
+            100% { transform: translateX(0); }
+        }
 
-<h1 align="center">Hi 👋, I'm Özge Odabaş</h1>
+        h1 {
+            animation: moveTitle 2s infinite; /* Adjust the duration and other properties as needed */
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">Hi 👋, I'm Özge Odabaş</h1>
+</body>
+</html>
+
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Recipe Sharing Project](https://github.com/ozgeeodabass/EatIt)

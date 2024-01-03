@@ -17,3 +17,6 @@ jobs:
         uses: ozgeeodabass/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/ozgeeodabass/stories/public"
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          

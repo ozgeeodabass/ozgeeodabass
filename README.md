@@ -10,15 +10,6 @@
 
 - 📫 How to reach me **ozgeeodabassg@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Autofac ile ASP.NET Core’da Dependency Injection](https://ozgeeodabassg.medium.com/autofac-ile-asp-net-coreda-dependency-injection-18d9571cbc2d?source=rss-9c41e1cf5f70------2)
-- [Dependency Injection &lpar;DI&rpar; | .NET](https://ozgeeodabassg.medium.com/dependency-injection-di-net-f7c848203f2c?source=rss-9c41e1cf5f70------2)
-- [Virtual Keyword | C#](https://ozgeeodabassg.medium.com/virtual-keyword-c-8195aa8b7995?source=rss-9c41e1cf5f70------2)
-- [Singleton Design Pattern| Lazy Initialization ve Thread Safe Kullanımı](https://ozgeeodabassg.medium.com/singleton-design-pattern-lazy-loading-double-checked-locking-69098c8378f7?source=rss-9c41e1cf5f70------2)
-- [API Geliştirmede Request&amp;Response Sınıfları](https://ozgeeodabassg.medium.com/api-geli%C5%9Ftirmede-request-response-s%C4%B1n%C4%B1flar%C4%B1-c25bcce159c9?source=rss-9c41e1cf5f70------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozgeodabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozgeodabas" height="30" width="40" /></a>
@@ -36,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeeodabass&" alt="ozgeeodabass" /></p>
 
-# My Latest Articles
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

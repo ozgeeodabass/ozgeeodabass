@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Recipe Sharing Project](https://github.com/ozgeeodabass/EatIt)
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **.NET Core/Spring Boot**
 
 - 📝 I regularly write articles on [https://medium.com/@ozgeeodabassg](https://medium.com/@ozgeeodabassg)
 

@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ozgeeodabass.ozgeeodabass"/>
  
  <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=DA0000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+%C3%96zge+Odaba%C5%9F!" alt="Typing SVG" /></a>
- </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7266C&width=435&lines=Hi%2C+I'm+%C3%96zge+Kaplan!" alt="Typing SVG" /></a> </h1>
  
 
 <h3 align="center">A passionate backend developer from Turkey</h3>
